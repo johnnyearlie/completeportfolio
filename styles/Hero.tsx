@@ -1,3 +1,4 @@
+tsx
 import { Button } from './ui/button';
 import { ArrowDown, Building2, Music2, Mountain, Image, User, MapPin } from 'lucide-react';
 import { motion } from 'motion/react';
