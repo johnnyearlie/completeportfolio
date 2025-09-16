@@ -1,12 +1,13 @@
-import { Header } from './components/Header.tsx';
-import { Hero } from './components/Hero.tsx';
-import { About } from './components/About.tsx';
-import { Experience } from './components/Experience.tsx';
-import { Music } from './components/Music.tsx';
-import { Photography } from './components/Photography.tsx';
-import { Dog } from './components/Dog.tsx';
-import { Contact } from './components/Contact.tsx';
-import { Footer } from './components/Footer.tsx';
+tsx
+import { Header } from './components/Header';
+import { Hero } from './components/Hero';
+import { About } from './components/About';
+import { Experience } from './components/Experience';
+import { Music } from './components/Music';
+import { Photography } from './components/Photography';
+import { Dog } from './components/Dog';
+import { Contact } from './components/Contact';
+import { Footer } from './components/Footer';
 
 export default function App() {
   return (
